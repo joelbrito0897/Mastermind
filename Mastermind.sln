@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mastermind", "Mastermind\Mastermind.csproj", "{69C7B260-5699-4658-9327-CDFDF2AC54B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mastermind.Test", "Mastermind.Test\Mastermind.Test.csproj", "{032AEAE2-5DBB-4D56-875C-2F48A30076FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69C7B260-5699-4658-9327-CDFDF2AC54B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C7B260-5699-4658-9327-CDFDF2AC54B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C7B260-5699-4658-9327-CDFDF2AC54B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C7B260-5699-4658-9327-CDFDF2AC54B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{032AEAE2-5DBB-4D56-875C-2F48A30076FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{032AEAE2-5DBB-4D56-875C-2F48A30076FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{032AEAE2-5DBB-4D56-875C-2F48A30076FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{032AEAE2-5DBB-4D56-875C-2F48A30076FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22E5C0E1-D1C5-432B-B798-D97C586F9060}
+	EndGlobalSection
+EndGlobal
